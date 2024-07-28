@@ -1,7 +1,7 @@
 #I am Priyanshu Sharma 
 💫 About Me:
 
-🔭 I’m currently working on HTML , CSS , JS<br>🌱 I’m currently learning web-development<br>🤝 I’m looking for help with Back-end<br>💬 Ask me about Coding ,DSA<br>📫 How to reach me priyanshusharma72002@gmail.com<br>⚡ Fun fact All work and no play makes jack a dull boy!
+🔭 I’m currently working on HTML , CSS , JS, Angular, React, Dotnet, PostgreSQL<br>🌱 I’m exploring Full-stack web-development<br>💬 Ask me about Coding ,DSA<br>📫 How to reach me priyanshusharma72002@gmail.com<br>⚡ Fun fact All work and no play makes jack a dull boy!
 
 
 ## 🌐 Socials:
