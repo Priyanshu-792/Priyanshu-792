@@ -1,24 +1,30 @@
 # 👋 Hi, I’m Priyanshu Sharma  
 
-💻 **Software Engineer 1 | Full-Stack Developer (.NET + React + Angular)**  
-🚀 Building scalable web platforms for enterprise clients  
+💻 **Software Engineer 1 | Full-Stack + AI Engineer (.NET + React + Angular + GenAI)**  
+🚀 Building scalable enterprise platforms & intelligent AI-driven systems  
 
 ---
 
 ## 💫 About Me  
 
-🔭 Currently working as **Software Engineer 1**  
-🌱 Strong focus on **Full-Stack Web Development & Scalable APIs**  
-💬 Ask me about **C#, .NET, React, Angular, REST APIs, SQL, DSA**  
+🔭 Currently working as **Software Engineer 1 @ Softway**  
+🌱 Focused on **Full-Stack Development + Generative AI + Agentic Systems**  
+💬 Ask me about **C#, .NET, React, Angular, LLMs, RAG, APIs, SQL, DSA**  
 📫 Reach me at **priyanshusharma72002@gmail.com**  
-⚡ Fun fact: *All work and no play makes Jack a dull boy — so I balance both 😄*
+⚡ Fun fact: *I build systems that think… and still debug them like a human 😄*  
 
 ---
 
 ## 🧠 Professional Summary  
 
-Full-stack developer with experience in designing, developing, and deploying enterprise-grade applications using **C#, .NET Core, ASP.NET MVC/Web API, React, Angular, SQL Server, PostgreSQL, and Sitefinity CMS**.  
-Experienced in **REST API design, performance optimization, CI/CD pipelines, AWS, and Agile delivery**, with direct impact on large-scale platforms across **US & Canada markets**.
+Full-stack developer with **2+ years of experience** building enterprise-grade applications using **.NET, React, Angular**, and modern cloud stacks.  
+
+Recently expanded into **Generative AI & Agentic AI systems**, with hands-on experience in:  
+- **LLM/SLM fine-tuning (QLoRA, PyTorch)**  
+- **RAG pipelines (LangChain, FAISS, HuggingFace)**  
+- **Agentic workflows (Google ADK, MCP-based context systems)**  
+
+Experienced in delivering **context-aware, production-ready AI solutions** along with scalable backend systems across **US & Canada markets**.
 
 ---
 
@@ -27,74 +33,100 @@ Experienced in **REST API design, performance optimization, CI/CD pipelines, AWS
 ### **Software Engineer 1 — Softway**  
 📍 *Jul 2024 – Present*  
 
-- Working on large enterprise platforms for **Daikin US & Canada**
-- Developing full-stack solutions using **.NET Framework, ASP.NET MVC, React, Angular**
-- Managing **CI/CD pipelines**, deployments on **AWS & Azure DevOps**, and **IIS hosting**
-- Building scalable APIs, optimizing database queries, and contributing to architectural decisions  
+- Building enterprise platforms for **Daikin US & Canada**
+- Developing full-stack solutions using **.NET, React, Angular**
+- Working on **AI-powered systems (GenAI, Agentic AI, RAG pipelines)**
+- Managing **CI/CD pipelines, AWS, Azure DevOps, IIS deployments**
+- Driving performance optimization & architecture decisions  
 
 **Key Projects:**  
-- **Daikin Website Transformation (DWT)**  
-- **Daikin Fit Recall Framework**  
-- **Help-Desk Application**  
-- **Goodman Pricing & Rebate Calculator**
+- ShipMind (Offline AI System)  
+- DebugLens (Multi-Agent Debugging System)  
+- PULSE (AI Coaching Platform)  
+- Daikin Website Transformation (DWT)  
+- Help-Desk Application  
 
 ---
 
 ### **Software Developer Intern — Promact Infotech**  
 📍 *Jan 2024 – Apr 2024*  
 
-- Developed **REST APIs using .NET Core MVC**
-- Built Angular-based dashboards and UI modules  
-- Worked extensively with **PostgreSQL**, SQL queries, and transactions  
-- Implemented automated notifications and backend workflows  
-
-**Project:** Customer Success Platform
+- Developed **REST APIs using .NET Core**
+- Built Angular dashboards with **PostgreSQL**
+- Implemented **RBAC, workflows, and automation systems**  
 
 ---
 
 ## 🚀 Key Projects  
 
+### 🔹 ShipMind — Offline AI for Marine Diagnostics  
+- Fine-tuned **Qwen 2.5 3B using QLoRA + PyTorch**  
+- Built **offline RAG pipeline (LangChain + FAISS)**  
+- 📈 Improved diagnostic response relevance by **~40%**  
+- Fully offline inference system (no external dependency)  
+
+---
+
+### 🔹 DebugLens — Multi-Agent Debugging Assistant  
+- Built **multi-agent system using Google ADK**  
+- Implemented **MCP (Model Context Protocol)** for structured context  
+- Generated **hallucination-resistant debugging reports**  
+- Correlates logs, metrics, and incidents intelligently  
+
+---
+
+### 🔹 PULSE — AI Coaching Platform  
+- Real-time **voice + chat coaching platform**  
+- Integrated **OpenAI Realtime API**  
+- Backend with **FastAPI + AWS Lambda + S3**  
+- Generates summaries, follow-ups, and insights  
+
+---
+
+### 🔹 Help-Desk Application (ML Powered)  
+- Built using **React, Vite, Supabase**  
+- Integrated **DistilBERT for zero-shot ticket classification**  
+- Automated priority assignment & routing  
+
+---
+
 ### 🔹 Daikin Website Transformation (DWT)  
-- Built full-stack modules using **.NET Core APIs, ASP.NET MVC, SQL Server**
-- Implemented **Algolia Search**, custom APIs, and query tuning  
-- 🚀 Improved performance & boosted engagement by **25–30%**
-
-### 🔹 Help-Desk Application  
-- Internal ticketing system using **React, Vite, Supabase**
-- Features: ticket lifecycle, attachments, real-time chat support  
-- Clean admin & employee workflows
-
-### 🔹 Daikin Fit Recall Framework  
-- Built recall workflows using **React + .NET APIs**
-- Implemented bulk operations, automated pipelines, and dealer call lists  
-- Microservices-style backend architecture
-
-### 🔹 Goodman Pricing & Rebate Calculator  
-- Developed energy-savings calculator using **ASP.NET Core MVC**
-- Automated pricing logic by **35%**
-- Improved decision accuracy by **40%** and enhanced SEO visibility
+- Full-stack modules using **.NET MVC, SQL Server**  
+- Integrated **Algolia Search & optimized queries**  
+- 🚀 Boosted engagement by **25–30%**  
 
 ---
 
 ## 💻 Tech Stack  
 
-**Languages & Core:**  
-C#, C++, Java, JavaScript, SQL, NoSQL  
+### 🧠 AI / ML  
+LLMs, SLMs, RAG, LangChain, FAISS, HuggingFace, PyTorch, Google ADK, MCP  
 
-**Frontend:**  
-HTML, CSS, SCSS, React, Angular  
+### 💻 Languages  
+C#, Python, JavaScript, Java, SQL, NoSQL  
 
-**Backend & APIs:**  
-.NET Core, .NET Framework, ASP.NET MVC, Web API, REST, SOAP  
+### 🎨 Frontend  
+React, Angular, HTML, CSS, SCSS  
 
-**Databases:**  
+### ⚙️ Backend  
+.NET Core, ASP.NET MVC, Web API, FastAPI, REST, SOAP  
+
+### 🗄️ Databases  
 SQL Server, PostgreSQL, Supabase, MongoDB  
 
-**Cloud & DevOps:**  
-AWS (S3, EC2, RDS), Azure DevOps, CI/CD, IIS  
+### ☁️ Cloud & DevOps  
+AWS (S3, EC2, RDS, Lambda, CloudWatch), Azure DevOps, CI/CD, IIS  
 
-**Tools & Practices:**  
-GitHub, Postman, Swagger, Jira, Design Patterns, Microservices  
+### 🛠️ Tools & Practices  
+GitHub, Postman, Swagger, Jira, Microservices, Design Patterns, Agile  
+
+---
+
+## 🎓 Education  
+
+🎓 **B.Tech in Computer Science & Engineering**  
+Budge Budge Institute of Technology (MAKAUT)  
+📊 CGPA: **8.98**  
 
 ---
 
