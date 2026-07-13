@@ -93,7 +93,7 @@ Experienced in delivering **context-aware, production-ready AI solutions** along
 ### 🔹 Daikin Website Transformation (DWT)  
 - Full-stack modules using **.NET MVC, SQL Server**  
 - Integrated **Algolia Search & optimized queries**  
-- 🚀 Boosted engagement by **25–30%**  
+- 🚀 Boosted engagement by **30–35%**  
 
 ---
 
